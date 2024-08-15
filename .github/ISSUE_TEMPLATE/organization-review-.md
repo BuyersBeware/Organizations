@@ -3,7 +3,7 @@ name: 'Organization Review '
 about: Submit a review to BuyersBeware.org
 title: ''
 labels: ''
-assignees: mrjonleek
+assignees: ''
 
 ---
 
